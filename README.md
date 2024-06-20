@@ -53,6 +53,5 @@ Next steps include:
 3. Value at Risk (VaR) and Expected Shortfall (ES): Determining the VaR for different confidence levels to understand potential losses.
 
 ### Summary
-This project aims to equip you with practical skills in market risk management, including data analysis, statistical risk measurement, 
-and portfolio risk assessment. 
-By the end of this project, you will have a comprehensive understanding of how to measure and manage market risk in a diversified global portfolio.
+This project equips you with practical skills in market risk management, including data analysis, statistical risk measurement, 
+and portfolio risk assessment. It will help you to understand of how to measure and manage market risk in a diversified global portfolio.
