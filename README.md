@@ -13,7 +13,7 @@ The main goal of this project is to simulate a real-world risk management proces
 4. Value at Risk (VaR) Calculation: Computing VaR to estimate potential losses at different confidence levels.
 
 ### Project Tools
-We've ued Microsoft Excel (see Market_Risk_Management.xlsx)
+We've ued Microsoft Excel.
 
 ### Portfolio and Data
 For this project, we focused on a globally diversified portfolio consisting of four equity indexes:
